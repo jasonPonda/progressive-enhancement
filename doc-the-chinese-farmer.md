@@ -1,13 +1,12 @@
-<!DOCTYPE html>
-<meta charset="utf-8">
+<body>
 <header>
 <h1>The Story of the Chinese Farmer</h1>
 
 <h3>it a good thing? Is that a bad thing? I don't know.
 May 11, 2016, Alexandre Gorius</h3>
-</header>
 
-<body>
+
+
 <p> nature, Good & Evil do not exist. The Universe itself is neither good nor bad, but a potential in permanent development.</p>
 
 
@@ -51,7 +50,7 @@ In life, there are 4 types of people.
 
 <hr>
 
-Here is this dialog in the form of a table
+<h2>Here is this dialog in the form of a table</h2>
 <table>
     <tr>
       <th>Event </th>
@@ -74,17 +73,21 @@ Here is this dialog in the form of a table
          <td><strong>Maybe</strong></td>
       </tr>
 </table>
-  <caption> Table representing the farmer's philosophy.</caption>
+  <caption>Table representing the farmer's philosophy.</caption>
  
+
+
+
+<h2>Conclusion</h2>
+</header>
+<p class = "good">Good and Bad are just one perspective. Bananas are good for monkeys, but monkeys are not good for bananas. Let's not make a big deal out of it...</p>
 </body>
 
-
-Conclusion  
-Good and Bad are just one perspective. Bananas are good for monkeys, but monkeys are not good for bananas. Let's not make a big deal out of it...
 
 <hr>
 <footer>
 
-Copyright Just Another Company 2017. All right reserved. Adapted from this article: https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/
+Copyright Just Another Company 2017. All right reserved. Adapted from this article: <a href = "https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/" target = "_blank">site</a>
+
 </footer>
 </html>
