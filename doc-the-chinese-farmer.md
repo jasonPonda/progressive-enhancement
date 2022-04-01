@@ -29,26 +29,30 @@ May 11, 2016,</p>
 <li>people who don't think about it.</li>
 </ul>
 
-
+<div class = "flex-container">
 <img src="https://cdn-images-1.medium.com/max/1000/1*2PCmLZyzQaF2pyKYkSTFpA.jpeg">
-
+</div>
 <p> in space, turning around, looking at the earth’s face. From that rock’s perspective on Mars or that gaz opinion from Jupiter, nothing cares about your problems. Up there, it’s just not serious, and there’s no such thing as an issue.</p>
 
 <p>Down here, the only reality is the one inside our brain. Nothing exists if the brain doesn’t think it. Nothing exists neither if our senses don’t transmit the message. That means that if we mis sense, our reality changes. That’s possible because our perception is limited : you can’t see at 360 degrees for example. If we mis translate the message, our reality changes. If we think it in a way, our reality changes depending on that way. Therefore, if we can change reality that much, everything’s fake.</p>
 
 <p>They’re proofs to that. Fall in love with someone and you’ll see that person as divine. Pull yourself out of that grip and the divine falls from clouds to solid ground, revealing him or herself differently. But the person is the same, you just changed your mind. Everything works like that : it’s not just that you can make your world, it’s that you passively do it anyway.</p>
 
+<div class = "flex-container">
 <figure>
 <img src ="http://static2.businessinsider.com/image/52fe8230eab8ea4275063b89/nasa-has-determined-where-the-mysterious-jelly-doughnut-rock-on-mars-came-from.jpg" alt="what does he think about it?">
 </figure>
+</div>
 
 <header>
 <h2> story </h2>
 </header>
 
+<div class = "flex-container">
 <figure>
 <img src="https://cdn-images-1.medium.com/max/800/1*IQqkmPXYZuJViY5p-ymk0A.jpeg" alt="The Old Chinese Farmer"><figcaption>The Old Chinese Farmer</figcaption>
 </figure>
+</div>
 
 <figure>
    <blockquote>
@@ -101,7 +105,7 @@ May 11, 2016,</p>
   <caption>Table representing the farmer's philosophy.</caption>
  
 
-
+</br>
 <header>
 <h2>Conclusion</h2>
 </header>

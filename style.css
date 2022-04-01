@@ -93,3 +93,16 @@ tr:nth-child(even) {
     left: -3px;
     top: 10px;
 }
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-container > div {
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
