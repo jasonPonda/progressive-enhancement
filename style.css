@@ -34,3 +34,42 @@ blockquote {
     border-left: 3px solid firebrick;
     padding: 80px 30px 80px 30px;
 }
+
+figcaption{
+    color: #5466A2;
+}
+
+.quote {
+    font-style: italic;
+}
+
+.villagers {
+        border-left: 3px solid #5466A2;
+}
+
+.farmer {
+        border-left: 3px solid #DDF506 ;
+        
+}
+
+h1::first-letter {
+    color: yellow;
+}
+
+.good {
+    text-transform: capitalize;
+    color: green;
+}
+
+.bad {
+    text-transform: capitalize;
+    color: red;
+}
+
+tr:nth-child(even) {
+    background-color: #837979;
+}
+
+#bien::before {
+    position: relative;
+}
