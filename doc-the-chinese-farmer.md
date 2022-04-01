@@ -1,4 +1,4 @@
-
+<link rel="stylesheet" href="style.css">
 <body>
 <header>
 <h1>The Story of the Chinese Farmer</h1>
@@ -11,7 +11,7 @@ May 11, 2016, Alexandre Gorius</h3>
 <p> nature, <span class ="good">Good</span> & Evil do not exist. The Universe itself is neither <span class ="good">good</span> nor <span class = "ban">bad</span>, but a potential in permanent development.</p>
 
 
-<p>In life, there are 4 types of people.</p>
+<h2>In life, there are 4 types of people.</h2>
 <ul>
 <li>people who think the Internet is <span class ="good">good</span>,</li>
 <li>people who think the Internet is evil,</li>
