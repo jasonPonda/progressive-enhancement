@@ -1,18 +1,19 @@
+
 <body>
 <header>
 <h1>The Story of the Chinese Farmer</h1>
 
-<h3>it a good thing? Is that a bad thing? I don't know.
+<h3>it a <span class ="good">good</span> thing? Is that a <span class = "ban">bad</span> thing? I don't know.
 May 11, 2016, Alexandre Gorius</h3>
 
 
 
-<p> nature, Good & Evil do not exist. The Universe itself is neither good nor bad, but a potential in permanent development.</p>
+<p> nature, <span class ="good">Good</span> & Evil do not exist. The Universe itself is neither <span class ="good">good</span> nor <span class = "ban">bad</span>, but a potential in permanent development.</p>
 
 
 <p>In life, there are 4 types of people.</p>
 <ul>
-<li>people who think the Internet is good,</li>
+<li>people who think the Internet is <span class ="good">good</span>,</li>
 <li>people who think the Internet is evil,</li>
 <li>people who think the Internet is cats,</li>
 <li>people who don't think about it.</li>
@@ -36,13 +37,13 @@ May 11, 2016, Alexandre Gorius</h3>
 <img src="https://cdn-images-1.medium.com/max/800/1*IQqkmPXYZuJViY5p-ymk0A.jpeg" alt="The Old Chinese Farmer"><figcaption>The Old Chinese Farmer</figcaption>
 </figure>
 
-<p> upon a time there was a Chinese farmer whose horse ran away. That evening, all of his neighbors came around to commiserate. They said, “We are so sorry to hear your horse has run away. This is most unfortunate.” The farmer said, “Is it good? Is it bad? I don't know.” The next day the horse came back bringing seven wild horses with it, and in the evening everybody came back and said, “Oh, isn’t that lucky. What a great turn of events. You now have eight horses!” The farmer again said, “Is it good? Is it bad? I don't know.” </p>
+<p> upon a time there was a Chinese farmer whose horse ran away. That evening, all of his neighbors came around to commiserate. They said, “We are so sorry to hear your horse has run away. This is most unfortunate.” The farmer said, “Is it <span class ="good">good</span>? Is it <span class = "ban">bad</span>? I don't know.” The next day the horse came back bringing seven wild horses with it, and in the evening everybody came back and said, “Oh, isn’t that lucky. What a great turn of events. You now have eight horses!” The farmer again said, “Is it <span class ="good">good</span>? Is it <span class = "ban">bad</span>? I don't know.” </p>
 
-<p>The following day his son tried to break one of the horses, and while riding it, he was thrown and broke his leg. The neighbors then said, “Oh dear, that’s too bad,” and the farmer responded, “Is it good? Is it bad? I don't know.” The next day the conscription officers came around to conscript people into the army, and they rejected his son because he had a broken leg. Again all the neighbors came around and said, “Isn’t that great!” Again, he said, “Is it good? Is it bad? I don't know.”</p>
+<p>The following day his son tried to break one of the horses, and while riding it, he was thrown and broke his leg. The neighbors then said, “Oh dear, that’s too <span class = "ban">bad</span>,” and the farmer responded, “Is it <span class ="good">good</span>? Is it <span class = "ban">bad</span>? I don't know.” The next day the conscription officers came around to conscript people into the army, and they rejected his son because he had a broken leg. Again all the neighbors came around and said, “Isn’t that great!” Again, he said, “Is it <span class ="good">good</span>? Is it <span class = "ban">bad</span>? I don't know.”</p>
 
 <figure>
    <blockquote>
-<p>The whole process of nature is an integrated process of immense complexity, and it’s really impossible to tell whether anything that happens in it is good or bad — because you never know what will be the consequence of the misfortune; or, you never know what will be the consequences of good fortune.</p>
+<p>The whole process of nature is an integrated process of immense complexity, and it’s really impossible to tell whether anything that happens in it is <span class ="good">good</span> or <span class = "ban">bad</span> — because you never know what will be the consequence of the misfortune; or, you never know what will be the consequences of <span class ="good">good</span> fortune.</p>
    </blockquote>
 
 <figcaption>Alan Watts</figcaption>
@@ -54,7 +55,7 @@ May 11, 2016, Alexandre Gorius</h3>
 <table>
     <tr>
       <th>Event </th>
-      <th>Good or Bad ?</th>
+      <th><span class ="good">good</span> or <span class = "ban">bad</span> ?</th>
       </tr>
       <tr>
          <td>Lose a horse</td>
@@ -80,7 +81,7 @@ May 11, 2016, Alexandre Gorius</h3>
 
 <h2>Conclusion</h2>
 </header>
-<p class = "good">Good and Bad are just one perspective. Bananas are good for monkeys, but monkeys are not good for bananas. Let's not make a big deal out of it...</p>
+<p> <span class = "good">Good</span> and <span class="bad" >Bad</span> are just one perspective. Bananas are <span class ="good">good</span> for monkeys, but monkeys are not <span class ="good">good</span> for bananas. Let's not make a big deal out of it...</p>
 </body>
 
 
