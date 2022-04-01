@@ -95,14 +95,31 @@ tr:nth-child(even) {
 }
 
 .flex-container {
-    display: flex;
-    flex-direction: column;
+   position: relative;
+   width: 1000px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   flex-wrap: wrap;
 }
 
-.flex-container > div {
-    width: 100px;
+.flex-container .side {
+    position: relative;
+    max-width: 850px;
     margin: 10px;
-    text-align: center;
-    line-height: 75px;
-    font-size: 30px;
+    padding: 15px;
+    display: flex;
+}
+
+.flex-container .side .img {
+    max-width: 150px;
+    flex: 0 0 150px;
+}
+
+.flex-container .side .img img {
+    max-width: 100%;
+}
+
+.flex-container .side .content {
+    margin-left: 20px;
 }
