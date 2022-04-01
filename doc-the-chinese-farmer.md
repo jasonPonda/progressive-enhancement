@@ -87,7 +87,7 @@ In life, there are 4 types of people.
 <hr>
 <footer>
 
-Copyright Just Another Company 2017. All right reserved. Adapted from this article: <a href = "https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/" target = "_blank">site</a>
+Copyright Just Another Company 2017. All right reserved. Adapted from this article: <a href = "https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/" target = "_blank">https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/</a>
 
 </footer>
 </html>
