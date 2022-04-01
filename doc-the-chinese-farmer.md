@@ -10,7 +10,7 @@ May 11, 2016, Alexandre Gorius</h3>
 <p> nature, Good & Evil do not exist. The Universe itself is neither good nor bad, but a potential in permanent development.</p>
 
 
-In life, there are 4 types of people.
+<p>In life, there are 4 types of people.</p>
 <ul>
 <li>people who think the Internet is good,</li>
 <li>people who think the Internet is evil,</li>
@@ -87,7 +87,7 @@ In life, there are 4 types of people.
 <hr>
 <footer>
 
-Copyright Just Another Company 2017. All right reserved. Adapted from this article: <a href = "https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/" target = "_blank">https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/</a>
+Copyright Just Another Company 2017. All right reserved. Adapted from this article: <a href = "https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/" target ="_blank">https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/</a>
 
 </footer>
 </html>
