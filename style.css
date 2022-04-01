@@ -1,0 +1,34 @@
+p {
+    font-family: serif;
+    letter-spacing: 1px;
+    color: darkslategrey;
+}
+
+a:link {
+    color: #265301;
+}
+
+a:visited{
+    color: #437A;
+}
+
+a:hover{
+    color: #CDFEAA;
+}
+
+body{
+    width: 90%;
+    margin: 25px;
+    background-color: #5466A2;
+    background-image: linear-gradient(to bottom, rgba(255,255,0,0.5), rgba(0,0,255,0.5)),
+    url('luffy.jpg');
+    background-size: 300px;
+    background-repeat: no-repeat;
+}
+
+blockquote {
+    font-size: 160%;
+    background-color: lightgrey;
+    border-left: 3px solid firebrick;
+    padding: 80px 30px 80px 30px;
+}
