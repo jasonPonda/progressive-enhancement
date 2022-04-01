@@ -23,9 +23,9 @@ May 11, 2016,</p>
 </header>
 
 <ul>
-<li>people who think the Internet is <em class ="good">good</em>,<em id="bien"></em></li>
-<li>people who think the Internet is evil,<em id="mal"></em></li>
-<li>people who think the Internet is cats,<em id="chat"></em></li>
+<li>people who think the Internet is <em class ="good">good</em>, <em id="bien"></em></li>
+<li>people who think the Internet is evil, <em id="mal"></em></li>
+<li>people who think the Internet is cats, <em id="chat"></em></li>
 <li>people who don't think about it.</li>
 </ul>
 

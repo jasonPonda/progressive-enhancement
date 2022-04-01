@@ -71,5 +71,25 @@ tr:nth-child(even) {
 }
 
 #bien::before {
+    content: url(images/bien.png);
+    background-repeat: no-repeat;
     position: relative;
+    left: -3px;
+    top: 10px;
+}
+
+#mal::before {
+    content: url(images/mal.png);
+    background-repeat: no-repeat;
+    position: relative;
+    left: -3px;
+    top: 10px;
+}
+
+#chat::before {
+    content: url(images/chat.png);
+    background-repeat: no-repeat;
+    position: relative;
+    left: -3px;
+    top: 10px;
 }
