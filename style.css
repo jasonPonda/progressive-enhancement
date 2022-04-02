@@ -129,7 +129,3 @@ thead, tbody {
     border: 2px solid black;
     border-collapse: collapse;
 }
-
-tfoot {
-    border: none;
-}
