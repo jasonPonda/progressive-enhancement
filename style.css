@@ -26,6 +26,7 @@ body{
     background-position: bottom;
     right: 0;
     background-size: cover;
+    font-family: 'Open Sans', sans-serif;
 }
 
 blockquote {
