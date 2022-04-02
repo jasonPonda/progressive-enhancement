@@ -114,8 +114,8 @@ tr:nth-child(even) {
  }
  
  .flex-container .side .img {
-     max-width: 150px;
-     flex: 0 0 150px;
+     max-width: 100px;
+     flex: 0 0 100px;
  }
  
  .flex-container .side .img img {
