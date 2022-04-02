@@ -96,34 +96,35 @@ tr:nth-child(even) {
 }
 
 .flex-container {
-   position: relative;
-   width: 1000px;
-   display: flex;
-   justify-content: space-between;
-   align-items: center;
-   flex-wrap: wrap;
-}
-
-.flex-container .side {
     position: relative;
-    max-width: 1000px;
-    margin: 10px;
-    padding: 150px;
+    width: 800px;
     display: flex;
-}
-
-.flex-container .side .img {
-    max-width: 650px;
-    flex: 0 0 150px;
-}
-
-.flex-container .side .img img {
-    max-width: 200%;
-}
-
-.flex-container .side .content {
-    margin-left: 20px;
-}
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+ }
+ 
+ .flex-container .side {
+     display: flex;
+     position: relative;
+     align-items: center;
+     max-width: 850px;
+     margin: 10px;
+     padding: 5px;
+ }
+ 
+ .flex-container .side .img {
+     max-width: 150px;
+     flex: 0 0 150px;
+ }
+ 
+ .flex-container .side .img img {
+     max-width: 150%;
+ }
+ 
+ .flex-container .side .content {
+     margin-left: 150px;
+ }
 
 thead, tbody {
     border: 2px solid black;
