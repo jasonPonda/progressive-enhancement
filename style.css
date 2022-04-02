@@ -119,11 +119,11 @@ tr:nth-child(even) {
  }
  
  .flex-container .side .img img {
-     max-width: 150%;
+     max-width: 100%;
  }
  
  .flex-container .side .content {
-     margin-left: 150px;
+     margin-left: 20px;
  }
 
 thead, tbody {
