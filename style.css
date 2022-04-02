@@ -125,7 +125,7 @@ tr:nth-child(even) {
     margin-left: 20px;
 }
 
-table, thead, tbody {
+thead, tbody {
     border: 2px solid black;
     border-collapse: collapse;
 }
