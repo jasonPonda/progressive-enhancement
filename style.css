@@ -100,7 +100,7 @@ tr:nth-child(even) {
     display: flex;
     justify-content: space-between;
     align-items: stretch;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
  }
  
  .flex-container .side {
