@@ -106,14 +106,15 @@ tr:nth-child(even) {
  .flex-container .side {
      display: flex;
      position: relative;
-     align-items: center;
-     max-width: 850px;
+     align-items: stretch;
+     /*max-width: 850px;
      margin: 10px;
-     padding: 5px;
+     padding: 5px;*/
  }
  
  .flex-container .side .img {
-     max-width: 100px;
+     width: 350px;
+     height: 350px;
      flex: 0 0 100px;
  }
  
