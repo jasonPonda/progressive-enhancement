@@ -97,10 +97,9 @@ tr:nth-child(even) {
 
 .flex-container {
     position: relative;
-    width: 800px;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: stretch;
     flex-wrap: wrap;
  }
  
